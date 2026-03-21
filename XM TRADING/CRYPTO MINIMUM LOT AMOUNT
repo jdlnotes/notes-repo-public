@@ -1,0 +1,16 @@
+BTC:
+Lot Value = 1
+Minimum Lot = 0.01
+Margin (no leverage) = (1 X 0.01) X CURRENT AMOUNT
+Margin (3X leverage) = (1 X 0.01) X CURRENT AMOUNT / 3  
+ETH:
+Lot Value = 1
+Minimum Lot = 0.02
+Margin (no leverage) = (1 X 0.02) X CURRENT AMOUNT
+Margin (3X leverage) = (1 X 0.02) X CURRENT AMOUNT / 3  
+
+DOGE:
+Lot Value = 10,000
+Minimum Lot = 0.06
+Margin (no leverage) = (10,000 X 0.06) X CURRENT AMOUNT
+Margin (3X leverage) = (10,000 X 0.06) X CURRENT AMOUNT / 3  
