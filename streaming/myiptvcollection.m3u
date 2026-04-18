@@ -69,3 +69,7 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,CNN
+Premier Sports (1080p)
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
