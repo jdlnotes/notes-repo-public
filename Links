@@ -28,3 +28,12 @@ https://www.worldtimebuddy.com/?pl=1&lid=2147714,1701668,1609350,1273294,112931,
 
 #M3U
 https://iptv-org.github.io/iptv/index.country.m3u
+
+Genre-Specific Playlists URLs (IPTV-org)
+IPTV-org also has specific categories that can be added directly
+
+Sports: https://iptv-org.github.io/iptv/categories/sports.m3u
+Movies: https://iptv-org.github.io/iptv/categories/movies.m3u
+News: https://iptv-org.github.io/iptv/categories/news.m3u
+Documentary: https://iptv-org.github.io/iptv/categories/documentary.m3u
+Music: https://iptv-org.github.io/iptv/categories/music.m3u
